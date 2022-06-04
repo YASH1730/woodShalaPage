@@ -1,0 +1,8 @@
+# For enable the email service follow the steps below 
+
+step 1 :- create your account on https://elasticemail.com/account#/login
+step 2 :- create a smtp server by valid mail account and remember you have to authenticate it 
+step 3 :- copy the password and mail give when you creating you smtp server
+step 4 :- past it in /js/index.js add cred in email route
+
+## Here we Go 
